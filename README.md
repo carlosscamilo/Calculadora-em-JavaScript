@@ -1,2 +1,2 @@
 # Calculadora-em-JavaScript
-Calculadora B
+Calculadora Básica usando JavaScript
